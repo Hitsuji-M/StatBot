@@ -1,2 +1,2 @@
 # StatBot
-**Ce projet est obsolète, pour voir sa version plus récente (développée par moi) suivez ce lien : [Josix](https://github.com/ClubNix/Josix)**
+**This project is obsolete, to see its more recent version (developed by me) follow this link : [Josix](https://github.com/ClubNix/Josix)**
